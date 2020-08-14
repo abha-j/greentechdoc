@@ -1,6 +1,6 @@
 [Greentechdoc](https://github.com/sabuj000/greentechdoc/wiki)
 
-[Importance of API Documentation](https://www.youtube.com/embed/0ZW9yL6hEfg)
+[![Importance of API Documentation](https://github.com/sabuj000/greentechdoc/blob/master/API%20thumbnail.jpg)](https://www.youtube.com/embed/0ZW9yL6hEfg)
 
 # API Documentation Proccess Guide
 This	is	a	suggested	structure,	but	is	by	no	means	the	only	way	to	structure	the	documentation.	Many	of	
